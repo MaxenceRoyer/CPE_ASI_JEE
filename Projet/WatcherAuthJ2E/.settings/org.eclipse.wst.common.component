@@ -8,6 +8,9 @@
         <dependent-module archiveName="FrontAuthWatcherWebService.war" deploy-path="/" handle="module:/resource/FrontAuthWatcherWebService/FrontAuthWatcherWebService">
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="MiddleAuthWatcherEJB.jar" deploy-path="/" handle="module:/resource/MiddleAuthWatcherEJB/MiddleAuthWatcherEJB">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <dependent-module archiveName="WatcherAuthProject.jar" deploy-path="/" handle="module:/resource/WatcherAuthProject/WatcherAuthProject">
             <dependency-type>uses</dependency-type>
         </dependent-module>

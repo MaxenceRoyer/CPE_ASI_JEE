@@ -1,0 +1,5 @@
+fr\cpe\rest\dto\UserAuth.class
+fr\cpe\rest\impl\WatcherAuthRestService.class
+fr\cpe\rest\JaxRsActivator.class
+fr\cpe\rest\dto\UserAuthResult.class
+fr\cpe\rest\IWatcherAuthRestService.class

@@ -1,0 +1,5 @@
+fr\cpe\model\Role.class
+ejbModule\ejb\MessageReceiverSyncLocal.class
+fr\cpe\model\UserModel.class
+ejbModule\ejb\MessageSenderQueueLocal.class
+ejbModule\ejb\MessageSenderLocal.class
